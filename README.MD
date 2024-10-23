@@ -69,7 +69,7 @@ condition_to_index = {
 ```
 
 #### ConvNeXt Models
-Five separate models were trained for individual conditions:
+Six separate models were trained for individual conditions:
 
 
 ### Training Process
